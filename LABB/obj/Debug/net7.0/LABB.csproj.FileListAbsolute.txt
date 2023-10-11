@@ -1,0 +1,14 @@
+/Users/viktorarnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB
+/Users/viktorarnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.deps.json
+/Users/viktorarnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.runtimeconfig.json
+/Users/viktorarnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.dll
+/Users/viktorarnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.pdb
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.AssemblyInfoInputs.cache
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.AssemblyInfo.cs
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.csproj.CoreCompileInputs.cache
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.dll
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/refint/LABB.dll
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.pdb
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.genruntimeconfig.cache
+/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/ref/LABB.dll
