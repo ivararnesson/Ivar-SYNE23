@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LABB
-build_property.ProjectDir = /Users/viktorarnesson/Ivar-SYNE23/LABB/
+build_property.ProjectDir = /Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/

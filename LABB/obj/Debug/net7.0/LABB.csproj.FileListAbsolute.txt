@@ -12,3 +12,17 @@
 /Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.pdb
 /Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.genruntimeconfig.cache
 /Users/viktorarnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/ref/LABB.dll
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.deps.json
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.runtimeconfig.json
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.dll
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/bin/Debug/net7.0/LABB.pdb
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.AssemblyInfoInputs.cache
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.AssemblyInfo.cs
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.csproj.CoreCompileInputs.cache
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.dll
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/refint/LABB.dll
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.pdb
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/LABB.genruntimeconfig.cache
+/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/Debug/net7.0/ref/LABB.dll

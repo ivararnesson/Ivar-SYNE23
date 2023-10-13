@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/viktorarnesson/.nuget/packages/": {}
+    "/Users/ivararnesson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/viktorarnesson/Ivar-SYNE23/LABB/LABB.csproj",
+      "projectUniqueName": "/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/LABB.csproj",
       "projectName": "LABB",
-      "projectPath": "/Users/viktorarnesson/Ivar-SYNE23/LABB/LABB.csproj",
-      "packagesPath": "/Users/viktorarnesson/.nuget/packages/",
-      "outputPath": "/Users/viktorarnesson/Ivar-SYNE23/LABB/obj/",
+      "projectPath": "/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/LABB.csproj",
+      "packagesPath": "/Users/ivararnesson/.nuget/packages/",
+      "outputPath": "/Users/ivararnesson/vcs/github.com/ivararnesson/Ivar-SYNE23/LABB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/viktorarnesson/.nuget/NuGet/NuGet.Config"
+        "/Users/ivararnesson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
